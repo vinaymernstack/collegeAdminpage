@@ -1,0 +1,17 @@
+.RegIdInMarks{
+    margin-right: 5%;
+}
+.table{
+    margin-top: 2%;
+}
+.inputmarks{
+    margin-left: 10px
+}
+.disablebtn {
+    pointer-events: none;
+    background-color: gray
+}
+.buttons{
+    margin-left: 10px;
+}
+
